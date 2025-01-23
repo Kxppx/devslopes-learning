@@ -10,7 +10,7 @@ body {
 .nav-list a {
 	background-color: #333;
 	font-weight: bold;
-	font-size: 110%;
+	font-size: 100%;
 	color: #fff;
 }
 
@@ -42,8 +42,8 @@ body {
 #search-box {
 	margin-left: auto;
 	margin-right: 0;
-	padding: 18px;
- }
+	padding-right: 18px;
+}
 
 #search-controls {
 	background-color: #efefef;
@@ -60,7 +60,7 @@ body {
 	margin-left: auto;
 	margin-right: 0;
 	padding-right: 5px;
- }
+}
 
 .display-item {
   margin: 2px;

@@ -41,7 +41,7 @@ if (crewStatus && cameraBattery === "green"){
    readyToSkate = false;
 }
 
-if (readyToSkate) {
+if (readyToSkate = false) {
    console.log("Let's goooooo!");
    console.log("Time to skate!");
 } else {
